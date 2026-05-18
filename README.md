@@ -1,2 +1,2 @@
 # das-practice
-c++ dsa
+ dsa is c++
